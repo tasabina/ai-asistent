@@ -1,5 +1,5 @@
 {
-  "name": "@tasabina/ai-assistent",
+  "name": "@tasabina/ai-asistent",
   "version": "1.0.0",
   "description": "Simple OpenAI editor helper",
   "main": "./dist/cjs/index.js",
